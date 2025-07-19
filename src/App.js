@@ -20,7 +20,7 @@ function App() {
      
       
       {/* Main Container */}
-      <div className="flex items-center justify-center min-h-screen -my-16 relative z-20">
+      <div className="flex items-center justify-center min-h-screen -my-24 relative z-20">
         <div className="w-1/5 h-1/5" style={{ minHeight: '350px', minWidth: '500px' }}>
           <HeroSection />
         </div>
