@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Wifi, Settings, Cpu, Smartphone, Car, Home, User, Zap, Globe, Bot } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Wifi, Settings, Smartphone, Car, Home, User, Zap, Bot } from 'lucide-react';
 
 const HeroSection = () => {
   const [hoveredNode, setHoveredNode] = useState(null);
